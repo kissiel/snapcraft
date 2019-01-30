@@ -18,7 +18,7 @@ parts:
     checkbox-ng-local:
         plugin: python
         python-packages:
-            - checkbox-ng==1.0.0
+            - checkbox-ng
             - idna==2.7
             - requests-oauthlib
             - xlsxwriter

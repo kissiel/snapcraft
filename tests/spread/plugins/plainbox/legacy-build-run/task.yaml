@@ -22,4 +22,4 @@ execute: |
   echo "$output" | MATCH "job 'com.example::always-fail'"
 
   # TODO: LP: #1796000
-  # checkbox-simple.checkbox-cli run com.example::always-pass
+   checkbox-simple.checkbox-cli run com.example::always-pass
